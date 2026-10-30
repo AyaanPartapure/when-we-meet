@@ -1,0 +1,13 @@
+# Private content — NEVER upload personal journal data
+journal.txt
+journal-backup.json
+when-we-meet-backup-*.json
+*.sqlite3
+*.sqlite
+*.db
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
