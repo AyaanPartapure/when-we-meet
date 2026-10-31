@@ -1,8 +1,6 @@
 # When We Meet 💙
 **Some things are better said in person.**
 
-![Website Preview](assets/webapp-home.png)
-
 ## 💭 Why I Built It
 
 I prefer talking in person over texting. Sometimes I think of something I want to share, but by the time we meet, I've forgotten it.
@@ -22,7 +20,3 @@ So I built **When We Meet** — a little space to save those thoughts until we'r
 
 *Keep the thought now. Say it when you meet.* 💙
 ---
-
-## 🌐 Website Preview
-
-![When We Meet Website](assets/webapp-home.png)
