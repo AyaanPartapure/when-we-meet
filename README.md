@@ -21,3 +21,8 @@ So I built **When We Meet** — a little space to save those thoughts until we'r
 **Tech Stack:** HTML · CSS · JavaScript · IndexedDB
 
 *Keep the thought now. Say it when you meet.* 💙
+---
+
+## 🌐 Website Preview
+
+![When We Meet Website](assets/webapp-home.png)
